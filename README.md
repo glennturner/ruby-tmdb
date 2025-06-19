@@ -133,7 +133,7 @@ ruby-tmdb3 is maintained to work under Ruby 1.8.x & 1.9.x. Please make sure it w
 
 ## Item information
 
-To find out more about the information each object offers on retrieved items have a look at the [TMDb API Docs](http://help.themoviedb.org/kb/api/about-3). For the most accurate information about the information available have a look at the data directly through ruby-tmdb3 by calling @item.raw_data.inspect
+To find out more about the information each object offers on retrieved items have a look at the [TMDb API Docs](https://developer.themoviedb.org/docs/getting-started). For the most accurate information about the information available have a look at the data directly through ruby-tmdb3 by calling @item.raw_data.inspect
 
 ## Author & Credits
 
